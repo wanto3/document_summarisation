@@ -11,7 +11,7 @@ This document provides information on how to interact with the Document Summariz
 
 The request should be a POST request with a payload in JSON format. The JSON structure should consist of a list of documents, where each document contains its own structure of content and metadata.
 
-![image](https://github.com/wanto3/document_summarisation/assets/59409764/19965e5a-c7c0-417c-b4c2-f64137d7c7f0)
+![image](https://github.com/wanto3/document_summarisation/assets/59409764/9bf5bb3a-642a-4e44-8886-5215128c8599)
 
 ## Sending a Request Using cURL
 
